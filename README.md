@@ -1,2 +1,2 @@
 ## Web Project
-my Profile website
+my Profile website using HTML and CSS
